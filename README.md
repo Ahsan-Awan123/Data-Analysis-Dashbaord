@@ -17,4 +17,10 @@ This interactive Tableau dashboard provides a comprehensive view of sales, profi
 -Which products or time periods represent the highest risk to profitability?  
 
 
+## Dashboard
+- <a href="https://github.com/Ahsan-Awan123/Data-Analysis-Dashbaord/blob/main/Dashboard.png">Dashboard</a>
+
+
+
+
 
