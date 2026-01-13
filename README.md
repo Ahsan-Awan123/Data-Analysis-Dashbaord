@@ -18,7 +18,7 @@ This interactive Tableau dashboard provides a comprehensive view of sales, profi
 
 
 ## Dashboard
-- <a href="https://github.com/Ahsan-Awan123/Data-Analysis-Dashbaord/blob/main/Dashboard.png">Dashboard</a>
+- <a href="https://public.tableau.com/authoring/sales_17682620060020/SalesDashboard#1">Dashboard</a>
 
 
 
